@@ -68,7 +68,7 @@ https://flagscan.xyz/address/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/write\_p
 
 ![](../../.gitbook/assets/4%20%286%29.png)
 
-Make sure that the network is FLAG network. If you have not added Flag network please follow the instructions [here](https://docs.flagscan.xyz/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask).
+Make sure that the network is FLAG network. If you have not added Flag network please follow the instructions [here](../../how-to-add-fuse-to-your-metamask.md).
 
 Click on **“Connect to Metamask”** and sign in to your wallet through Metamask.
 

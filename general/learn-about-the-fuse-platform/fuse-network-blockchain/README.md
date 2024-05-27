@@ -4,7 +4,7 @@
 
 Flag is the decentralized EVM-compatible public blockchain that powers the Flag platform and ecosystem. It is fully compatible with Ethereum meaning that any smart contract that can be deployed on the latter can also run on top of Flag.
 
-The Flag blockchain uses a variant of delegated Proof of Stake (dPoS) for achieving [consensus](https://docs.flagscan.xyz/general/fuse-network-blockchain/fuse-consensus). The consensus is secured by a significant number of independent validators, only one of which is run by the Flag core team.
+The Flag blockchain uses a variant of delegated Proof of Stake (dPoS) for achieving [consensus](../fuse-network-blockchain/fuse-consensus.md). The consensus is secured by a significant number of independent validators, only one of which is run by the Flag core team.
 
 Validators are also responsible for the most important type of governance on Flag, namely, adopting the network protocol changes via [Flag Improvement Proposals](https://docs.flagscan.xyz/general/fips) (FIPs). 
 

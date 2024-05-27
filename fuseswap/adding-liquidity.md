@@ -7,11 +7,11 @@ description: We will learn on how to add liquidity to Fuseswap on FLAG/USDC pair
 **Prerequisites:**
 
 * You should be connected to Flag RPC.
-* USDC and FLAG should be on Flag network. To learn how to transfer them to Flag network using Fuseswap via Bridge please go through this [**tutorial**](https://docs.flagscan.xyz/the-fuse-chain/token-bridges/transfer-fuse-using-bridge-on-fuseswap).
+* USDC and FLAG should be on Flag network. To learn how to transfer them to Flag network using Fuseswap via Bridge please go through this [**tutorial**](../the-fuse-chain/token-bridges/transfer-fuse-using-bridge-on-fuseswap.md).
 
 **Step 1:**
 
-Navigate to [www.fuseswap.com](https://fuseswap.com/) .The interface will look like as shown below
+Navigate to [www.flagswap.com](https://flagswap.com/) .The interface will look like as shown below
 
 ![](../.gitbook/assets/0%20%287%29.png)
 
@@ -32,7 +32,7 @@ Click on **“Approve USDC”** and confirm the transaction through your wallet.
 
 \(Note: If this is the first time you are providing liquidity on Fuseswap using the above pairs you will have to approve the spend transaction.\)
 
-Once the transaction is confirmed on-chain click on **“Supply”** and approve the transaction. You will receive the liquidity pool tokens on your wallet which can be checked under tokens through [www.flagscan.xyz](https://flagscan.xyz/) on your wallet address.
+Once the transaction is confirmed on-chain click on **“Supply”** and approve the transaction. You will receive the liquidity pool tokens on your wallet which can be checked under tokens through [flagscan.xyz](https://flagscan.xyz/) on your wallet address.
 
 Navigating to **“Pool”** on Fuseswap will also show you list of token pairs with statistics for which you have provided liquidity and other options like add/remove liquidity for that particular token pair as shown below.
 

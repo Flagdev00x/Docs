@@ -9,12 +9,12 @@
 
 * Flag\(FLAG\) - Ethereum: [0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d](https://etherscan.io/token/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d)
 * Flag\(FLAG\) - BSC: [0x5857c96DaE9cF8511B08Cb07f85753C472D36Ea3](https://bscscan.com/token/0x5857c96dae9cf8511b08cb07f85753c472d36ea3)
-* Wrapped Flag\(WFUSE\) - Flag: [0x0BE9e53fd7EDaC9F859882AfdDa116645287C629](https://flagscan.xyz/address/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629)
+* Wrapped Flag\(WFLAG\) - Flag: [0x0BE9e53fd7EDaC9F859882AfdDa116645287C629](https://flagscan.xyz/address/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629)
 * Flag Dollar\(FUSD\) - Flag: [0x249BE57637D8B013Ad64785404b24aeBaE9B098B](https://flagscan.xyz/address/0x249BE57637D8B013Ad64785404b24aeBaE9B098B)
 
 ## Bridges
 
-Do not send funds to the bridges, use [**FuseSwap**](https://fuseswap.com) or read the[ **manual** ](https://app.gitbook.com/@fuse-1/s/fuse-dev-docs/bridges/bridges)\*\*\*\*
+Do not send funds to the bridges, use [**flagSwap**](https://flagswap.com) or read the[ **manual** ](https://app.gitbook.com/@flag-1/s/flag-dev-docs/bridges/bridges)\*\*\*\*
 
 ### Ethereum&lt;-&gt;Flag Gooddollar bridge
 
@@ -56,7 +56,7 @@ Do not send funds to the bridges, use [**FuseSwap**](https://fuseswap.com) or re
 * Home AMB bridge - Flag: [0x1ee6E3E3d2DE779858728E157B3B9C488bA7b706](https://flagscan.xyz/address/0x1ee6E3E3d2DE779858728E157B3B9C488bA7b706)
 * Foreign AMB bridge - BSC: [0x3A5A320a2f98a3Fe39c9040e7e3E9caA7F0D5bd6](https://bscscan.com/address/0x3A5A320a2f98a3Fe39c9040e7e3E9caA7F0D5bd6)
 
-## FuseSwap
+## flagSwap
 
 * UniswapV2Router02 - Flag: [0xFB76e9E7d88E308aB530330eD90e84a952570319](https://flagscan.xyz/address/0xFB76e9E7d88E308aB530330eD90e84a952570319)
 * Multicall - Flag: [0x3CE6158b7278Bf6792e014FA7B4f3c6c46fe9410](https://flagscan.xyz/address/0x3CE6158b7278Bf6792e014FA7B4f3c6c46fe9410)
@@ -65,7 +65,7 @@ Do not send funds to the bridges, use [**FuseSwap**](https://fuseswap.com) or re
 
 ## Reward Programs
 
-### FuseSwap
+### flagSwap
 
 * fUSD/FLAG - Flag: [0x076BDeA1fD4695BDEF9Ba4579463BC4B3C97d645](https://flagscan.xyz/address/0x076BDeA1fD4695BDEF9Ba4579463BC4B3C97d645)
 * WETH/FLAG - Flag: [0xbCa51ae3896f4033fb7B467BD3ab4A4ff27f3a3E](https://flagscan.xyz/address/0xbCa51ae3896f4033fb7B467BD3ab4A4ff27f3a3E)

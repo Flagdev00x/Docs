@@ -71,7 +71,7 @@ Check out our featured live micro-economies launched on Flag: [https://studio.fl
 
 ## **What is the purpose of the Flag token?** 
 
-The Flag token aka FLAG is the internal currency of the Flag.  Those validating the network are paid in FLAG. This aligns the incentives between the validators and the network users. Learn more about FLAG tokenomics: [https://docs.flagscan.xyz/the-fuse-chain/fuse-token](https://docs.flagscan.xyz/the-fuse-chain/fuse-token)
+The Flag token aka FLAG is the internal currency of the Flag.  Those validating the network are paid in FLAG. This aligns the incentives between the validators and the network users. Learn more about FLAG tokenomics: [https://docs.flagscan.xyz/the-flag-chain/flag-token](https://docs.flagscan.xyz/the-fuse-chain/fuse-token)
 
 ## **Is there any reason for me to have FLAG?** 
 
@@ -86,8 +86,8 @@ The only cost of launching an economy on Flag is paying Ethereum gas prices. Whi
 **T**he Flag wallet is an easy to use wallet that holds FLAG, ETH and all tokens minted on Ethereum and the Flag as well as multiple fiat currencies, allowing anyone to participate in the micro-economy of their choice!  
   
 **Download it here -   
-App Store:** [https://apps.apple.com/il/app/fuse-wallet/id1491783654](https://apps.apple.com/il/app/fuse-wallet/id1491783654)  
-**Play Store:** [https://play.google.com/store/apps/**details?id=io.fuse.fusecash&hl=en**](https://play.google.com/store/apps/details?id=io.fuse.fusecash&hl=en)\*\*\*\*
+App Store:** [https://apps.apple.com/il/app/flag-wallet/id1491783654](https://apps.apple.com/il/app/fuse-wallet/id1491783654)  
+**Play Store:** [https://play.google.com/store/apps/**details?id=io.flag.fusecash&hl=en**](https://play.google.com/store/apps/details?id=io.fuse.fusecash&hl=en)\*\*\*\*
 
 ## **How do I create an economy on Flag?**
 

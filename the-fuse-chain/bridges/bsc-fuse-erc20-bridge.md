@@ -42,6 +42,6 @@ To send tokens from Flag network‌
 1. Approve the FLG20 tokens to be spent by the Home FLG20 bridge.
 2. Call `relayTokens` function on the bridge contract
 
-the `relayTokens` method will lock the bridged tokens on the home bridge. Then, an equal amount of the paired FLG20 token will be sent from the foreign bridge contract.[PreviousBSC ↔ Flag Native](https://app.gitbook.com/@fuse-1/s/fuse-dev-docs/~/drafts/-MdkekktVnuRGEokLu71/bridges/bridges/bsc-fuse-native/@merged)[  
-](https://app.gitbook.com/@fuse-1/s/fuse-dev-docs/~/drafts/-MdkekktVnuRGEokLu71/bridges/bridges/eth-fuse-native-bridge/@merged)
+the `relayTokens` method will lock the bridged tokens on the home bridge. Then, an equal amount of the paired FLG20 token will be sent from the foreign bridge contract.[PreviousBSC ↔ Flag Native](https://app.gitbook.com/@flag-1/s/flag-dev-docs/~/drafts/-MdkekktVnuRGEokLu71/bridges/bridges/bsc-flag-native/@merged)[  
+](https://app.gitbook.com/@flag-1/s/flag-dev-docs/~/drafts/-MdkekktVnuRGEokLu71/bridges/bridges/eth-flag-native-bridge/@merged)
 

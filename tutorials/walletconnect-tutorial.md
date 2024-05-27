@@ -1,6 +1,6 @@
-# How to use WalletConnect on fuse.cash and add liquidity on Fuseswap
+# How to use WalletConnect on flag.cash and add liquidity on Fuseswap
 
-We will learn how to connect Flag cash wallet to various fuse DApps through WalletConnect feature and add liquidity to Fuseswap through Flag cash wallet.
+We will learn how to connect Flag cash wallet to various flag DApps through WalletConnect feature and add liquidity to Fuseswap through Flag cash wallet.
 
 Mobile OS- Android  
 App version used- 0.1.14.144
@@ -13,7 +13,7 @@ Open your Flag cash wallet on your phone and the interface shown will be similar
 
 **Step 2:**
 
-Navigate to [https://www.fuseswap.com/](https://www.fuseswap.com/) on your computer and the interface will be as shown below
+Navigate to [https://www.flagswap.com/](https://www.flagswap.com/) on your computer and the interface will be as shown below
 
 ![](../.gitbook/assets/1%20%2817%29.png)
 
@@ -21,16 +21,16 @@ Use the “Connect to a wallet” on the right hand top corner and select “Wal
 
 ![](../.gitbook/assets/2%20%2817%29.png)
 
-**Step 3:** On your fuse cash wallet homepage you can spot a small icon which lets you scan the QR code displayed on [www.fuseswap.com](http://www.fuseswap.com/) in the previous step  
+**Step 3:** On your flag cash wallet homepage you can spot a small icon which lets you scan the QR code displayed on [www.flagswap.com](http://www.flagswap.com/) in the previous step  
 
 
 ![](../.gitbook/assets/3%20%283%29.jpeg)
 
-Once the QR code is scanned fuse cash wallet will ask permission to connect your fuse cash wallet with fuseswap dex as shown below. Click on “Connect” to confirm the connection.
+Once the QR code is scanned flag cash wallet will ask permission to connect your flag cash wallet with flagswap dex as shown below. Click on “Connect” to confirm the connection.
 
 ![](../.gitbook/assets/4%20%283%29.jpeg)
 
-You have successfully connected your fuse cash wallet with fuseswap dex through WalletConnect. You can verify this by double checking the wallet address of your fuse cash wallet with the wallet address displayed on top hand right corner of fuseswap dex.
+You have successfully connected your flag cash wallet with flagswap dex through WalletConnect. You can verify this by double checking the wallet address of your flag cash wallet with the wallet address displayed on top hand right corner of flagswap dex.
 
 Now we will continue and add liquidity on Fuseswap.
 

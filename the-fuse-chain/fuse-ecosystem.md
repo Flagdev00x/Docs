@@ -96,7 +96,7 @@ Unmarshal is a cross-chain platform for streamlined indexing and quering of DeFi
 
 Flag Studio is a platform for issuing tokens and creating payment-focused communities around them and managing those. It enables the issuance of tokens and the creation of their associated communities in both a simplified \(no coding\) mode via the Studio website, and a more technical mode using the platform's API.
 
-### [White Label Wallet](https://github.com/fuseio/fuse-wallet)
+### [White Label Wallet](https://github.com/fuseio/flag-wallet)
 
 The Flag White Label wallet is the second core piece of Flag's mobile-centric payment infrastructure. It is an open-source smart contract-based wallet that can be freely forked and customized by any project building on top of Flag via its API. It is build using the Flutter 2.2 framework, which makes its codebase suitable for multiple platforms, including mobile and desktop. More than 60 forks of the wallet have already been created, including Flag Cash, CuraDAI and Peepl. The Flag team is also working on creating an SDK for the white label wallet, enabling developers to borrow some of its components into their solutions instead of forking the whole of it.
 
@@ -130,7 +130,7 @@ Flag Staking is a platform created by the Flag team to make it easier for FLAG t
 
 FuseDollar \(fUSD\) is the first Flag-native stablecoin. fUSD is minted by locking an equal amount of USDC stablecoins, which means that fUSD is 100% collateralized by USDC. fUSD can be conveniently purchased from almost anywhere in the world thanks to the integration with Ramp Network. It is also an interest-bearing asset, as it is possible to earn 5% APR by holding it on a Flag Cash wallet account.
 
-### [oneFUSE](https://medium.com/fusenet/fuse-partners-with-ichi-to-launch-onefuse-stablecoin-for-the-fuse-community-8ed52ef1229b)
+### [oneFUSE](https://medium.com/fusenet/flag-partners-with-ichi-to-launch-onefuse-stablecoin-for-the-flag-community-8ed52ef1229b)
 
 oneFUSE is an innovative stablecoin for the Flag community created by ICHI. It is a hybrid stablecoin backed partly by USDC and partly by FLAG tokens. In order to issue 1 oneFUSE, a user must deposit $1 in USDC and FLAG, according to the proportion in place at the time of minting.
 
@@ -164,15 +164,15 @@ Flambu is a project building a sharing economy on Flag. Its mobile app will enab
 
 ## Wallets
 
-### [Flag Cash](https://fuse.cash)
+### [Flag Cash](https://flag.cash)
 
 Flag Cash is a consumer-focused implementation of the Flag Wallet technology. Flag's answer to Venmo and Cash App, it is an extremely user-friendly mobile gateway to crypto payments and DeFi. It features free fUSD deposits via the Ramp Network plugin, a built-in DEX functionality, a savings program for fUSD holders and NFT support.
 
-### Flag Wallet \(on [Android](https://play.google.com/store/apps/details?id=io.fuse.fusecash&hl=en&gl=US); on [iOS](https://apps.apple.com/il/app/fuse-wallet/id1491783654)\)
+### Flag Wallet \(on [Android](https://play.google.com/store/apps/details?id=io.flag.fusecash&hl=en&gl=US); on [iOS](https://apps.apple.com/il/app/flag-wallet/id1491783654)\)
 
 Flag Wallet is an instance of the Flag White Label wallet available for download on both Android and iOS. It enables easy onboarding of users to communities created through the Flag Studio no-coding UI.
 
-### CuraDAI \(on [Android](https://play.google.com/store/apps/details?id=io.fuse.curadai&hl=en&gl=US); on [iOS](https://apps.apple.com/fr/app/curadai/id1553242607)\)
+### CuraDAI \(on [Android](https://play.google.com/store/apps/details?id=io.flag.curadai&hl=en&gl=US); on [iOS](https://apps.apple.com/fr/app/curadai/id1553242607)\)
 
 CuraDAI is Kolektivo's fork of Flag Wallet designed to support transactions with the CuraDAI local currency for the island of Curaçao and promote the CuraDAI community engagement. 
 

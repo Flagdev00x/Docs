@@ -2,7 +2,7 @@
 
 Currently, the FLAG token supply is set to follow a **mildly inflationary model**. 
 
-With each new block created every 5 seconds on Flag, the validator who creates it, and the delegators who staked with them, receive the block rewards in newly issued FLAG tokens. This is designed to secure the network's [consensus mechanism](https://docs.flagscan.xyz/general/fuse-network-blockchain/fuse-consensus). 
+With each new block created every 5 seconds on Flag, the validator who creates it, and the delegators who staked with them, receive the block rewards in newly issued FLAG tokens. This is designed to secure the network's [consensus mechanism](../../../general/learn-about-the-fuse-platform/fuse-network-blockchain/fuse-consensus.md). 
 
 The reward amount per block is currently set such that every year, the FLAG total supply increases by approximately 5%.
 
@@ -14,4 +14,4 @@ Having substantial block rewards also makes it possible to keep transaction fees
 
 A Flag Improvement Proposal aimed at reducing the FLAG inflation  is currently under discussion by the community. If adopted by the validators, it will result in an annual inflation rate of 2% for third year of the network's existence and a fixed amounts of tokens issued in the subsequent years.
 
-You can find the text of the proposal and the discussion [here](https://forum.flagscan.xyz/t/changing-fuse-network-inflation-rate/102).   
+You can find the text of the proposal and the discussion [here](https://forum.flagscan.xyz/t/changing-flag-network-inflation-rate/102).   

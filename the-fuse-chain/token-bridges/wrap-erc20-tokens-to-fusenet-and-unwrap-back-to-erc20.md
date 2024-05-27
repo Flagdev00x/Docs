@@ -1,5 +1,5 @@
 ---
-description: Steps to transfer/wrap FLG20 tokens from Ethereum to Fusenet
+description: Steps to transfer/wrap FLG20 tokens from Ethereum to Flagnet
 ---
 
 # Bridge for FLG20 tokens
@@ -12,9 +12,9 @@ Below are the important contract addresses:
 
 Ethereum Mediator: **0xf301d525da003e874DF574BCdd309a6BF0535bb6**
 
-Fusenet Mediator : **0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03**
+Flagnet Mediator : **0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03**
 
-In the below example we will consider USDT \(FLG20\) and learn how to wrap USDT to Fusenet and relay it back to FLG20.
+In the below example we will consider USDT \(FLG20\) and learn how to wrap USDT to Flagnet and relay it back to FLG20.
 
 **Step 1:** **Approving the USDT token contract**
 
@@ -52,15 +52,15 @@ Enter the below details on **“Relay tokens”** and click on **“Write”**
 
 ![](../../.gitbook/assets/3%20%285%29.png)
 
-Once the transaction is confirmed on-chain we wait for 2 blocks to ensure security of transaction and then the USDT tokens should appear on your Flag address and have been swapped from Ethereum mainnet to Fusenet.
+Once the transaction is confirmed on-chain we wait for 2 blocks to ensure security of transaction and then the USDT tokens should appear on your Flag address and have been swapped from Ethereum mainnet to Flagnet.
 
-Now let’s learn how to transfer the wrapped FLG20 tokens on Fusenet back to Ethereum mainnet.
+Now let’s learn how to transfer the wrapped FLG20 tokens on Flagnet back to Ethereum mainnet.
 
-**Step 1:** Approving the wrapped USDT token contract on Fusenet. 
+**Step 1:** Approving the wrapped USDT token contract on Flagnet. 
 
-This step basically is to approve your wallet to interact with the USDT token contract on Fusenet so that you can transfer the tokens to the Mediator contract.
+This step basically is to approve your wallet to interact with the USDT token contract on Flagnet so that you can transfer the tokens to the Mediator contract.
 
-Please go to token contract on Fusenet explorer via link below.
+Please go to token contract on Flagnet explorer via link below.
 
 https://flagscan.xyz/address/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/write\_proxy
 
@@ -72,7 +72,7 @@ Click on **“Connect to Metamask”** and sign in to your wallet through Metama
 
  **Step 2:** Go to **“approve”** and enter the details below
 
-* spender \(address\) field: the mediator contract address on Fusenet \(0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03\)
+* spender \(address\) field: the mediator contract address on Flagnet \(0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03\)
 * spender \(uint256\): the amount of tokens to transfer in wei \(Number of decimals should be 18\)
 
 Click on **“Write”** and approve the transaction on your Metamask wallet and wait for the confirmation on-chain.
@@ -81,7 +81,7 @@ Click on **“Write”** and approve the transaction on your Metamask wallet and
 
 **Step 3:**
 
-Navigate to Migrator contract on Fusenet using the link below
+Navigate to Migrator contract on Flagnet using the link below
 
 [https://flagscan.xyz/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write\_proxy](https://flagscan.xyz/address/0xc2220646E1E76D5fF3a441eDd9E8EFF0e4A8EF03/write_proxy)
 
@@ -89,7 +89,7 @@ Click on **“Write as Proxy”** and then on **“Connect to Metamask”** \(If
 
 Enter the below details on **“Relay tokens”** and click on **“Write”**
 
-* token \(address\) field: the USDT token contract address on Fusenet \(0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10\)
+* token \(address\) field: the USDT token contract address on Flagnet \(0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10\)
 * \_value \(uint256\): the amount of tokens to transfer in wei \(Number of decimals should be 6\)
 
 ![](../../.gitbook/assets/6%20%285%29.png)

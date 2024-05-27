@@ -10,7 +10,7 @@
 
 [Liquid Global](https://liquid.com)
 
-The best data on the active FLAG trading pairs is available [here](https://www.coingecko.com/en/coins/fuse#markets).
+The best data on the active FLAG trading pairs is available [here](https://www.coingecko.com/en/coins/flag#markets).
 
 ### DEXes
 
@@ -34,7 +34,7 @@ DoDo
 
 ## Wallets
 
-[Flag Cash](https://fuse.c)
+[Flag Cash](https://flag.c)
 
 Metamask
 
@@ -50,7 +50,7 @@ Trust Wallet (Binance Smart Chain)
 
 ## DeFi Tools
 
-[Flag Staking](exchanges-wallets-on-ramps-and-defi-tools-supporting-fuse.md#exchanges)
+[Flag Staking](exchanges-wallets-on-ramps-and-defi-tools-supporting-flag.md#exchanges)
 
 [Flag Rewards](https://rewards.flagscan.xyz)
 

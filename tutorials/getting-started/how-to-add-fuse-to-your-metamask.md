@@ -16,7 +16,7 @@ Optionally you can add the full parameters:
 
 
 {% hint style="danger" %}
-**Note: Please make sure you send Flag assets to only other fuse chain wallets and not any exchanges. We won't be able to retrieve the funds in case fuse assets are sent to non Flag chain supported wallets/exchanges.**
+**Note: Please make sure you send Flag assets to only other flagswap chain wallets and not any exchanges. We won't be able to retrieve the funds in case flagswap assets are sent to non Flag chain supported wallets/exchanges.**
 {% endhint %}
 
   

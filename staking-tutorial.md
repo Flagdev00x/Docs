@@ -10,7 +10,7 @@ How to Stake FLAG:
 
 **Step 1:**
 
-Navigate to staking.flagscan.xyz and login to your wallet through metamask. Make sure you are on Flag network. If you are not please follow the instructions [**here**](https://docs.flagscan.xyz/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask).
+Navigate to staking.flagscan.xyz and login to your wallet through metamask. Make sure you are on Flag network. If you are not please follow the instructions [**here**](./how-to-add-fuse-to-your-metamask.md).
 
 ![](.gitbook/assets/0%20%284%29.png)
 

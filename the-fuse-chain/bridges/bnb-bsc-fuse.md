@@ -44,5 +44,5 @@ the `relayTokens` method will lock the FLG20 tokens on the foreign bridge. After
 #### ​ <a id="undefined"></a>
 
 [  
-](https://app.gitbook.com/@fuse-1/s/fuse-dev-docs/~/drafts/-MdkekktVnuRGEokLu71/bridges/bridges/eth-fuse-erc20-bridge/@merged)
+](https://app.gitbook.com/@flag-1/s/flag-dev-docs/~/drafts/-MdkekktVnuRGEokLu71/bridges/bridges/eth-flag-erc20-bridge/@merged)
 

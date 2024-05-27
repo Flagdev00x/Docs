@@ -22,7 +22,7 @@ Flag Assembly will regularly distribute the Community Token Pool funds to financ
 
 _**Council Chairman**_
 
-> Rob is a software developer and business operations expert with over 20 years of experience. He runs [Fuseprime](https://fuseprime.com/)**,** an independent organization that was one of the first validators on Flag, and has been heavily involved in Flag community management and strategic project development since 2019.
+> Rob is a software developer and business operations expert with over 20 years of experience. He runs [Flagprime](https://flagprime.com/)**,** an independent organization that was one of the first validators on Flag, and has been heavily involved in Flag community management and strategic project development since 2019.
 
 ### **2. Luc Lammers** <a href="#1b91" id="1b91"></a>
 

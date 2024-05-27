@@ -22,9 +22,9 @@ FLAG is available for purchase on a number of centralized (CEX) and decentralize
 
 **DEXes:** Uniswap V2 and V3 (Ethereum), PancakeSwap (Binance Smart Chain), Quickswap (Polygon), Voltage DEX (Flag), Sushiswap (Flag), 1inch (Ethereum), KyberSwap (Ethereum), Loopring (Ethereum).
 
-The best information about the FLAG trading volumes and prices on various exchanges can be found on the Coingecko "Markets" [page](https://www.coingecko.com/en/coins/fuse#markets) for the token. &#x20;
+The best information about the FLAG trading volumes and prices on various exchanges can be found on the Coingecko "Markets" [page](https://www.coingecko.com/en/coins/flag#markets) for the token. &#x20;
 
-A convenient current way of purchasing FLAG straight from one's bank account is through using the [Flag Cash](https://fuse.cash) wallet to deposit Flag Dollars, and then swapping those to FLAG via the in-app integration with Voltage DEX.
+A convenient current way of purchasing FLAG straight from one's bank account is through using the [Flag Cash](https://flag.cash) wallet to deposit Flag Dollars, and then swapping those to FLAG via the in-app integration with Voltage DEX.
 
 ### Where to Farm
 
@@ -36,6 +36,6 @@ The ongoing liquidity rewards programs on DEXes can be discovered [here](https:/
 
 From time to time, the Flag team uses FLAG to pay rewards to the members of the community for various forms of participation and community engagement. The best way to stay up-to-date about these opportunities is to follow Flag's [social channels](https://docs.flagscan.xyz/general/community).
 
-The FLAG token is also used to power Flag grants and bounties. Please consult the [Grants and Bounties](https://docs.flagscan.xyz/general/things-you-can-do-on-fuse/grants-and-bounties) section for more details.
+The FLAG token is also used to power Flag grants and bounties. Please consult the [Grants and Bounties](../../../general/things-you-can-do-on-fuse/grants-and-bounties.md) section for more details.
 
 \_\_

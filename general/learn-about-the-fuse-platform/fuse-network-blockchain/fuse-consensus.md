@@ -12,7 +12,7 @@ In order to participate in securing the network consensus, a node operator must 
 
 The validator who publishes a block agreed upon during a given consensus round is rewarded by the network protocol in newly minted FLAG tokens. They also receive the fees users paid for the transactions included into the block.
 
-Over time, validators can expect to publish a share of blocks equal to their share of the overall stake. Since FLAG uses dPoS, a validator can increase their share by attracting FLAG tokens from delegators. The mechanics of delegation on FLAG are discussed in more detail on the [following page](https://docs.flagscan.xyz/general/fuse-network-blockchain/validators-and-delegation).
+Over time, validators can expect to publish a share of blocks equal to their share of the overall stake. Since FLAG uses dPoS, a validator can increase their share by attracting FLAG tokens from delegators. The mechanics of delegation on FLAG are discussed in more detail on the [following page](../../../general/learn-about-the-fuse-platform/fuse-network-blockchain/validators-and-delegation.md).
 
 Validators who violate the consensus rules (by, for instance, not revealing random numbers) can expect their stake (including the delegators' contribution) to be frozen. This provides a strong incentive for validators to behave in the desired manner.
 

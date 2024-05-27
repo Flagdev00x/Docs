@@ -26,7 +26,7 @@ Foreign side of the AMB bridge on the Flag network: [0x1ee6E3E3d2DE779858728E157
 
 ## Source Code <a id="source-code"></a>
 
-‌​[https://github.com/fuseio/tokenbridge-contracts](https://github.com/fuseio/tokenbridge-contracts)​‌
+‌​[https://github.com/flagio/tokenbridge-contracts](https://github.com/flagio/tokenbridge-contracts)​‌
 
 ## How to use <a id="how-to-use"></a>
 
@@ -44,5 +44,5 @@ the `relayTokens` method will lock the FLG20 tokens on the foreign bridge. After
 #### ​ <a id="undefined"></a>
 
 [  
-](https://app.gitbook.com/@fuse-1/s/fuse-dev-docs/~/drafts/-MdkekktVnuRGEokLu71/bridges/bridges/eth-fuse-erc20-bridge/@merged)
+](https://app.gitbook.com/@flag-1/s/flag-dev-docs/~/drafts/-MdkekktVnuRGEokLu71/bridges/bridges/eth-flag-erc20-bridge/@merged)
 

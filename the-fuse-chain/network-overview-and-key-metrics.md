@@ -10,11 +10,9 @@ The following information will help you discover and connect to the Flag blockch
 
 * Network name: **Flag**
 * ChanId: **147**
-* Gas price: **1 gwei**
+* Gas price: **1.500000007 gwei**
 * RPC
   * official RPC: [https://mainnet-rpc.flagscan.xyz/](https://mainnet-rpc.flagscan.xyz/)
-  * pocket network RPC: [https://fuse-mainnet.gateway.pokt.network/](https://fuse-mainnet.gateway.pokt.network/)
-  * Archive node RPC:  [https://explorer-node.flagscan.xyz/](https://explorer-node.flagscan.xyz/)
 * Explorer: [http://flagscan.xyz/](http://flagscan.xyz/)
 
 Please refer to the [node-example](https://github.com/Flagdev00x/CoinNetwork/tree/master/node-example) if you wish to run your own node

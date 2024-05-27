@@ -10,5 +10,5 @@ Flag Foundation employs the Flag project team whose members' profiles can be fou
 
 The project team implements network protocol updates adopted by the validators, other protocol changes that do not require validator votes, node software. It develops the mobile-centric infrastructure for creating and managing token communities on Flag. It also works on boosting the adoption of the network through improving the Flag tech stack, securing new partnerships and integrations, onboarding ecosystem projects and marketing the platform within the crypto space and beyond.  
 
-3\) **Flag Assembly.** See the Assembly [page](https://docs.flagscan.xyz/general/fuse-governance/fuse-assembly) for more details.   
+3\) **Flag Assembly.** See the Assembly [page](fuse-assembly.md) for more details.   
 

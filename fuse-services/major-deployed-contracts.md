@@ -14,7 +14,7 @@
 
 ## Bridges
 
-Do not send funds to the bridges, use [**FuseSwap**](https://fuseswap.com) or read the[ **manual** ](https://app.gitbook.com/@fuse-1/s/fuse-dev-docs/bridges/bridges)\*\*\*\*
+Do not send funds to the bridges, use [**FlagSwap**](https://flagswap.com) or read the[ **manual** ](https://app.gitbook.com/@flag-1/s/flag-dev-docs/bridges/bridges)\*\*\*\*
 
 ### Ethereum&lt;-&gt;Flag Gooddollar bridge
 
@@ -56,7 +56,7 @@ Do not send funds to the bridges, use [**FuseSwap**](https://fuseswap.com) or re
 * Home AMB bridge - Flag: [0x1ee6E3E3d2DE779858728E157B3B9C488bA7b706](https://flagscan.xyz/address/0x1ee6E3E3d2DE779858728E157B3B9C488bA7b706)
 * Foreign AMB bridge - BSC: [0x3A5A320a2f98a3Fe39c9040e7e3E9caA7F0D5bd6](https://bscscan.com/address/0x3A5A320a2f98a3Fe39c9040e7e3E9caA7F0D5bd6)
 
-## FuseSwap
+## FlagSwap
 
 * UniswapV2Router02 - Flag: [0xFB76e9E7d88E308aB530330eD90e84a952570319](https://flagscan.xyz/address/0xFB76e9E7d88E308aB530330eD90e84a952570319)
 * Multicall - Flag: [0x3CE6158b7278Bf6792e014FA7B4f3c6c46fe9410](https://flagscan.xyz/address/0x3CE6158b7278Bf6792e014FA7B4f3c6c46fe9410)
@@ -65,7 +65,7 @@ Do not send funds to the bridges, use [**FuseSwap**](https://fuseswap.com) or re
 
 ## Reward Programs
 
-### FuseSwap
+### FlagSwap
 
 * fUSD/FLAG - Flag: [0x076BDeA1fD4695BDEF9Ba4579463BC4B3C97d645](https://flagscan.xyz/address/0x076BDeA1fD4695BDEF9Ba4579463BC4B3C97d645)
 * WETH/FLAG - Flag: [0xbCa51ae3896f4033fb7B467BD3ab4A4ff27f3a3E](https://flagscan.xyz/address/0xbCa51ae3896f4033fb7B467BD3ab4A4ff27f3a3E)

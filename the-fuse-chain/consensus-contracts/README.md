@@ -9,7 +9,7 @@ Consensus is a fault-tolerant mechanism that is used in blockchain systems to ac
 Being a validator is technically complex. In addition to staking Flag, validators need to run specialist software and have 100% uptime hardware. To lower the bar and allow anyone to take part and ownership of the network, the DPoS consensus mechanism was introduced. With Delegated Proof of Stake consensus mechanism, a token holder can delegate his validation rights to a third-party validator who will perform the validation for them, while getting part of the reward according to the predefined agreement.
 
 {% hint style="info" %}
-All the contracts in this section are available on our [Github](https://github.com/fuseio/fuse-network/tree/master/contracts)
+All the contracts in this section are available on our [Github](https://github.com/fuseio/flag-network/tree/master/contracts)
 {% endhint %}
 
 ## [Consensus - 0xF631D903d6C31b606Ec527558e441108B6211af3](https://flagscan.xyz/address/0xF631D903d6C31b606Ec527558e441108B6211af3)

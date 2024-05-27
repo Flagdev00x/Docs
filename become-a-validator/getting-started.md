@@ -14,56 +14,9 @@ In order to be a Flag validator, you first must see that you meet the pre-requir
 
 ## How to become a Flag validator
 
-To quickly become a validator, follow this steps:
+## Run Local Node
 
-### Step 1: Download the \`quickstart.sh\` script and an \`.env\` example file:
-
-```text
-mkdir fuse-validator
-cd fuse-validator
-wget -O quickstart.sh https://raw.githubusercontent.com/EclatDev/Flag/master/scripts/quickstart.sh
-chmod 777 quickstart.sh
-wget -O .env https://raw.githubusercontent.com/EclatDev/Flag/master/scripts/examples/.env.validator.example
-```
-
-### Step 2: Update the \`.env\` file:
-
-```text
-set "sudo" on `PERMISSION_PREFIX` if running docker/docker-compose requires root
-
-set `<YOUR_API_KEY>` to your infura api key on `FOREIGN_RPC_URL`
-(or replace entirely with your Ethereum mainnet rpc endpoint)
-```
-
-### Step 3: Run the script as a validator:
-
-```text
-./quickstart.sh
-```
-
-{% hint style="success" %}
-After running the script successfully, you will see your address in the [health](https://status.flagscan.xyz/) site.
-{% endhint %}
-
-### Step 5: Stake and/or delegate!
-
-#### Stake
-
-To stake FLAG tokens, all you should do is send your FLAG tokens to the Flag Consensus contract address over the Flag network from the validator address.
-
-{% hint style="success" %}
-The Flag Consensus contract address: `0xF631D903d6C31b606Ec527558e441108B6211af3`
-{% endhint %}
-
-The easiest way to do so, is to import your private key or key-store file to your favourite wallet \(for example Metamask\), switch network to Flag and send the FLAG tokens \(native tokens\) to the Consensus contract address.
-
-{% hint style="info" %}
-You can find your key-store \(containing your private key\) and the password for the created account in:
-
-`$HOME/fusenet/config/keys/FuseNetwork/UTC--xxxx`
-
-`$HOME/fusenet/config/pass.pwd`
-{% endhint %}
+Read more at: [https://github.com/Flagdev00x/CoinNetwork/tree/master/node-example](https://github.com/Flagdev00x/CoinNetwork/tree/master/node-example)
 
 #### Delegate
 

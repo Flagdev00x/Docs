@@ -2,7 +2,7 @@
 
 **Twitter**: [https://twitter.com/](https://twitter.com/)&#x20;
 
-**Discord**: [https://discord.com/invite/jpPMeSZ](https://discord.com/invite/jpPMeSZ)&#x20;
+**Discord**: [https://discord.com/invite/](https://discord.com/invite/)&#x20;
 
 **Flag Forum**: [https://forum.flagscan.xyz/](https://forum.flagscan.xyz/)
 

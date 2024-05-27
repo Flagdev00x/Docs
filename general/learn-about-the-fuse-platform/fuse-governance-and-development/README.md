@@ -12,4 +12,4 @@ The project team implements network protocol updates adopted by the validators, 
 
 That said, since Flag is a decentralized public blockchain platform, **no permission of the project team is required** for anyone who wishes to integrate with or develop on top of Flag, including the development of the network and node software.
 
-3\) **Flag Assembly.** See the Assembly [page](https://docs.flagscan.xyz/general/fuse-governance/fuse-assembly) for more details.  &#x20;
+3\) **Flag Assembly.** See the Assembly [page](../../fuse-governance/fuse-assembly.md) for more details.  &#x20;

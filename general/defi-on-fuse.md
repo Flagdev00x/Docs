@@ -4,7 +4,7 @@ Flag Dollars is a dollar pegged stable cryptocurrency that is minted on the Flag
 
 Flag Dollar is free to move between accounts on the Flag.cash app and swap them for other currencies and even hold them is a yield bearing savings account.
 
-### How does Flag Dollar keeps it’s peg to USD?
+### How does Flag Dollar keeps it’s flag to USD?
 
 Flag Dollar \(fUSD\) is fully backed by USDC which is a fully backed us regulated stablecoin minted by circle.com and is widely used in the decentralized finance space. The Flag network will add more stablecoins to aggregate yield, add stability and remove friction for on boarding and off boarding between crypto and fiat. 
 

@@ -1,16 +1,16 @@
 ---
-description: Security practices for keeping your fuse.cash wallet secured
+description: Security practices for keeping your flag.cash wallet secured
 ---
 
-# fuse.cash wallet security guidelines
+# flag.cash wallet security guidelines
 
-## Useful Guidelines on Keeping Your fuse.cash Wallet Secured 🔐
+## Useful Guidelines on Keeping Your flag.cash Wallet Secured 🔐
 
 ![](../.gitbook/assets/fuse-cash-card-image-1200x628-.png)
 
 ###  **1. Start with a Secure Foundation for Your Wallet**
 
-Make sure your device is free of any malware and never install [**fuse.cash**](https://fuse.cash/) ****onto a rooted device. To make sure you are always using an authentic version of fuse.cash wallet, you should download the app exclusively from the links provided on our [**website**](https://fuse.cash/).
+Make sure your device is free of any malware and never install [**flag.cash**](https://flag.cash/) ****onto a rooted device. To make sure you are always using an authentic version of flag.cash wallet, you should download the app exclusively from the links provided on our [**website**](https://flag.cash/).
 
 ### **2. Never Share Your Recovery Phrase or Private Key with Anyone**
 
@@ -29,7 +29,7 @@ Always keep a copy of your recovery phrase stored offline! Writing it down on a 
 Remember to always backup your recovery phrase through the in-app security feature. 
 
 {% hint style="info" %}
-**Backup your recovery phrase in fuse.cash wallet by navigating to 'Account' -&gt; 'Protect your wallet' -&gt; 'Back up' .**
+**Backup your recovery phrase in flag.cash wallet by navigating to 'Account' -&gt; 'Protect your wallet' -&gt; 'Back up' .**
 {% endhint %}
 
 In the event your phone is broken, stolen, lost or the app is accidentally deleted, your wallet can always be restored on a different phone using the recovery phrase. There is no reset or recovery process, so if you lose your phrase, you lose your funds!

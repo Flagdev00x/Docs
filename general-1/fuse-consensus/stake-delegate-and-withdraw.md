@@ -6,8 +6,8 @@ The basic requirement to become a Flag chain validator is to have a stake amount
 
 There are two options to stake (both should be called from the address which would be the validator)
 
-1. 1.Send Flag tokens to the [consensus contract](https://flagscan.xyz/address/0xF631D903d6C31b606Ec527558e441108B6211af3) - 0xF631D903d6C31b606Ec527558e441108B6211af3 on the fuse network.
-2. 2.Call the \`stake\` function on the [consensus contract](https://flagscan.xyz/address/0xF631D903d6C31b606Ec527558e441108B6211af3) - 0xF631D903d6C31b606Ec527558e441108B6211af3 on the fuse network.
+1. 1.Send Flag tokens to the [consensus contract](https://flagscan.xyz/address/0xF631D903d6C31b606Ec527558e441108B6211af3) - 0xF631D903d6C31b606Ec527558e441108B6211af3 on the flag network.
+2. 2.Call the \`stake\` function on the [consensus contract](https://flagscan.xyz/address/0xF631D903d6C31b606Ec527558e441108B6211af3) - 0xF631D903d6C31b606Ec527558e441108B6211af3 on the flag network.
 
 ## Delegate <a href="#delegate" id="delegate"></a>
 

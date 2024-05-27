@@ -32,7 +32,7 @@ Flag token on the Ethereum network: [0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d]
 
 ## Source Code
 
-{% embed url="https://github.com/fuseio/fuse-bridge/tree/master/native-to-erc20/contracts" %}
+{% embed url="https://github.com/flagio/flag-bridge/tree/master/native-to-erc20/contracts" %}
 
 ## How to use
 
