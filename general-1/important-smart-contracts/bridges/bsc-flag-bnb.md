@@ -1,0 +1,2 @@
+# BSC ↔ Flag BNB
+

@@ -27,13 +27,12 @@
   * [Flag Ecosystem](general/things-you-can-do-on-fuse/fuse-ecosystem.md)
   * [Community](general/things-you-can-do-on-fuse/community.md)
   * [Grants and Bounties](general/things-you-can-do-on-fuse/grants-and-bounties.md)
-* [Flag Mobile Infrastructure Use Cases](general/use-cases.md)
 
 ## Developers <a href="#general" id="general"></a>
 
 * [Network Details](general-1/network-details/README.md)
   * [Flag Mainnet](general-1/network-details/fuse-network-mainnet.md)
-  * [Flag Testnet Spark](general-1/network-details/fuse-testnet.md)
+  * [Flag Testnet Spark](general-1/network-details/flag-testnet-spark.md)
   * [Token Faucets](general-1/network-details/token-faucets.md)
   * [Network Upgrades](general-1/network-details/network-upgrades/README.md)
     * [Upgrade Guide](general-1/network-details/network-upgrades/upgrade-guide.md)
@@ -51,19 +50,17 @@
   * [TheGraph](general-1/resources-and-tools/thegraph.md)
   * [WalletConnect on Flag](general-1/resources-and-tools/walletconnect-on-fuse.md)
 * [Important smart contracts](general-1/important-smart-contracts/README.md)
-  * [Flag Token](general-1/important-smart-contracts/fuse-token.md)
-  * [Flag Dollar](general-1/important-smart-contracts/fuse-dollar.md)
+  * [Flag Token](general-1/important-smart-contracts/flag-token.md)
   * [Major Deployed Contracts](general-1/important-smart-contracts/major-deployed-contracts.md)
   * [Bridges](general-1/important-smart-contracts/bridges/README.md)
-    * [Ethereum ↔ Flag GoodDollar Token](general-1/important-smart-contracts/bridges/ethereum-fuse-gooddollar-token.md)
-    * [Ethereum ↔ Flag FLG20 Tokens](general-1/important-smart-contracts/bridges/ethereum-fuse-erc20-tokens.md)
-    * [BSC ↔ Flag BNB](general-1/important-smart-contracts/bridges/bsc-fuse-bnb.md)
-    * [BSC ↔ Flag Native](general-1/important-smart-contracts/bridges/bsc-fuse-native.md)
-    * [BSC  ↔ Flag FLG20](general-1/important-smart-contracts/bridges/bsc-fuse-erc20.md)
-    * [Ethereum ↔ Flag Native](general-1/important-smart-contracts/bridges/ethereum-fuse-native.md)
+    * [Ethereum ↔ Flag FLG20 Tokens](general-1/important-smart-contracts/bridges/ethereum-flag-flg20-tokens.md)
+    * [BSC ↔ Flag BNB](general-1/important-smart-contracts/bridges/bsc-flag-bnb.md)
+    * [BSC ↔ Flag Native](general-1/important-smart-contracts/bridges/bsc-flag-native.md)
+    * [BSC ↔ Flag FLG20](general-1/important-smart-contracts/bridges/bsc-flag-flg20.md)
+    * [Ethereum ↔ Flag Native](general-1/important-smart-contracts/bridges/ethereum-flag-native.md)
 * [How to become a validator](general-1/how-to-become-a-validator/README.md)
   * [Getting started as a validator](general-1/how-to-become-a-validator/getting-started-as-a-validator.md)
-  * [Getting started as on the Flag testnet](general-1/how-to-become-a-validator/getting-started-as-on-the-spark-testnet.md)
+  * [Getting started as on the Flag testnet](general-1/how-to-become-a-validator/getting-started-as-on-the-flag-testnet.md)
 
 ## Links
 
@@ -75,4 +72,3 @@
 * [Telegram](https://t.me/)
 * [Twitter](https://twitter.com/)
 * [YouTube](https://www.youtube.com/)
-<!-- * [Join our mailing list](https://cdn.forms-content.sg-form.com/d81bb4fc-c732-11e9-a6f6-de5802169549) -->
