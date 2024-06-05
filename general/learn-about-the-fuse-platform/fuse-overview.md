@@ -32,4 +32,4 @@ The Flag platform has three main components:
 
 1\) **The Flag blockchain**. The EVM-compatible public blockchain is the decentralized, permissionless backbone of the Flag platform and ecosystem.
 
-2\) **A set of reference decentralized finance (DeFi) products and tools**. The goal of these is to pave the way for the initial adoption of the platform. \\
+2\) **A set of reference decentralized finance (DeFi) products and tools**. The goal of these is to pave the way for the initial adoption of the platform.
