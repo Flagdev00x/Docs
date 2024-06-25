@@ -12,7 +12,7 @@
     * [Delegation through Staking with Validators](general/learn-about-the-fuse-platform/fuse-network-blockchain/validators-and-delegation.md)
     * [Ethereum (EVM) Compatibility and Smart Contracts](general/learn-about-the-fuse-platform/fuse-network-blockchain/ethereum-compatibility-and-smart-contracts.md)
     * [Boosting Flag's Scalability](general/learn-about-the-fuse-platform/fuse-network-blockchain/scaling-l2-payments.md)
-  * [Flag Token (FLAG)](general/learn-about-the-fuse-platform/fuse-token/README.md)
+  * [Flag Coin (FLAG)](general/learn-about-the-fuse-platform/fuse-token/README.md)
     * [FLAG Tokenomics](general/learn-about-the-fuse-platform/fuse-token/fuse-tokenomics.md)
     * [Exchanges, Wallets, On-Ramps and DeFi Tools Supporting FLAG](general/learn-about-the-fuse-platform/fuse-token/exchanges-wallets-on-ramps-and-defi-tools-supporting-fuse.md)
     * [FLAG on Other Chains](general/learn-about-the-fuse-platform/fuse-token/fuse-on-other-chains.md)
@@ -32,7 +32,7 @@
 
 * [Network Details](general-1/network-details/README.md)
   * [Flag Mainnet](general-1/network-details/fuse-network-mainnet.md)
-  * [Flag Testnet Spark](general-1/network-details/flag-testnet-spark.md)
+  * [Flag Testnet](general-1/network-details/flag-testnet.md)
   * [Token Faucets](general-1/network-details/token-faucets.md)
   * [Network Upgrades](general-1/network-details/network-upgrades/README.md)
     * [Upgrade Guide](general-1/network-details/network-upgrades/upgrade-guide.md)
